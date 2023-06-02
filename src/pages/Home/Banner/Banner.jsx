@@ -10,7 +10,7 @@ import img6 from "./../../../assets/home/06.png";
 
 const Banner = () => {
   return (
-    <div className="max-w-screen-2xl">
+    <div className="max-w-screen-2xl text-center">
       <Carousel>
         <div>
           <img src={img1} />
